@@ -6,7 +6,7 @@
     <th>Cidade natal</th>
   </tr>
   <tr>
-    <td>Rodrigo</td>
-    <td>Maceio</td>
+    <td>Thiago Fabricio</td>
+    <td>Osasco</td>
   </tr>
 </table>

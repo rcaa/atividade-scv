@@ -6,9 +6,11 @@
     <th>Cidade natal</th>
   </tr>
   <tr>
-    <td>Rodrigo
-        Luan</td>
-    <td>Maceio
-        Recife</td>
+    <td>Rodrigo</td>
+    <td>Maceio</td>
+  </tr>
+  <tr>
+    <td>Luan</td>
+    <td>Recife</td>
   </tr>
 </table>

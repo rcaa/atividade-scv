@@ -6,9 +6,9 @@
     <th>Cidade natal</th>
   </tr>
   <tr>
-    <td>Rodrigo</td>
-    <td>Maceio</td>
-    <td>Luan Valentino</td>
-    <td>Recife</td>
+    <td>Rodrigo
+        Luan</td>
+    <td>Maceio
+        Recife</td>
   </tr>
 </table>

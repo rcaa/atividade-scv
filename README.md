@@ -2,11 +2,7 @@
 
 <table>
   <tr>
-    <th>Nome</th>
-    <th>Cidade natal</th>
-  </tr>
-  <tr>
-    <td>Rodrigo</td>
-    <td>Maceio</td>
+    <td>Anderson</td>
+    <td>Olinda</td>
   </tr>
 </table>

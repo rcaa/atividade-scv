@@ -9,4 +9,8 @@
     <td>Rodrigo</td>
     <td>Maceio</td>
   </tr>
+  <tr>
+    <td>Pedro Medeiros</td>
+    <td>São Paulo</td>
+  </tr>
 </table>

@@ -8,5 +8,7 @@
   <tr>
     <td>Rodrigo</td>
     <td>Maceio</td>
+    <td>Pedro Araújo</td>
+    <td>Brejão</td>
   </tr>
 </table>

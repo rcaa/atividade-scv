@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <th>Nome: Tayane Cibely Batista Rodrigues</th>
-    <th>Cidade nataL: Águas Belas</th>
+    <th>Tayane Cibely Batista Rodrigues</th>
+    <th>Águas Belas</th>
   </tr>
   <tr>
     <td>Rodrigo</td>

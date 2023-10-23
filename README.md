@@ -9,4 +9,8 @@
     <td>Rodrigo</td>
     <td>Maceio</td>
   </tr>
+  <tr>
+    <td>Iasmin</td>
+    <td>Betânia</td>
+  </tr>
 </table>

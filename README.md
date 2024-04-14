@@ -9,4 +9,8 @@
     <td>Rodrigo</td>
     <td>Maceio</td>
   </tr>
+  <tr>
+    <td>Matheus</td>
+    <td>Riacho das Almas</td>
+  </tr>
 </table>

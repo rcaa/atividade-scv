@@ -9,4 +9,8 @@
     <td>Rodrigo</td>
     <td>Maceio</td>
   </tr>
+  <tr>
+    <td>Luís</td>
+    <td>Palmares</td>
+  </tr>
 </table>

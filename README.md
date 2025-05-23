@@ -9,4 +9,9 @@
     <td>Rodrigo</td>
     <td>Maceio</td>
   </tr>
+   <tr>
+    <td>Clívisson</td>
+    <td>Buíque-PE</td>
+  </tr>
+  
 </table>

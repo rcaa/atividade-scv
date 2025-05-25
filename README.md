@@ -9,4 +9,8 @@
     <td>Rodrigo</td>
     <td>Maceio</td>
   </tr>
+  <tr>
+    <td>David Saymmon dos Santos Felipe</td>
+    <td>Jupi</td>
+  </tr>
 </table>

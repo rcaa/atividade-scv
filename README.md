@@ -9,4 +9,8 @@
     <td>Rodrigo</td>
     <td>Maceio</td>
   </tr>
+  <tr>
+    <td>Edielson</td>
+    <td>São João</td>
+  </tr>
 </table>

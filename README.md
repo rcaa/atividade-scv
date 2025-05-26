@@ -8,5 +8,9 @@
   <tr>
     <td>Rodrigo</td>
     <td>Maceio</td>
+   </tr>
+  <tr>
+    <td>Stênio Medeiros</td>
+    <td>Correntes-PE</td>
   </tr>
 </table>
